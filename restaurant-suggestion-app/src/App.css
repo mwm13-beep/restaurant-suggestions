@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  background-color: white;
+}
+
+.Nav-bar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: darkblue;
+  height: 30px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  color: white;
+  align-items: center;
+}
+
+.Login-button {
+  background-color: white;
+  color: darkblue;
+  border: none;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 25px;
+  cursor: pointer;
+}
